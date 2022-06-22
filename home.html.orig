@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+<<<<<<< HEAD
+    <title>Blog by user1</title>
+=======
+    <title>Blog by user2 </title>
+>>>>>>> 496d382 (Commited by USER 2)
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+
+   
+</body>
+</html>
